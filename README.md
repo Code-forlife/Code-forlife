@@ -1,4 +1,3 @@
-<img src="https://i.ibb.co/c16VBbh/Screenshot-20230110-111546.png" alt="Screenshot-20230110-111546" border="0" width="100%">
 
 # DesiCoder 
 
