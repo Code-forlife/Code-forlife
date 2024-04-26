@@ -45,13 +45,13 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Code-forlife&count_private=true&show_icons=true&&theme=gruvbox&include_all_commits=true" width="46%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Code-forlife&theme=gruvbox" width = "49%">
+<img src="https://github-readme-stats.vercel.app/api?username=Code-forlife&count_private=true&show_icons=true&&theme=transparent&include_all_commits=true" width="46%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Code-forlife&theme=transparent" width = "49%">
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-forlife&theme=gruvbox" width = "65%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-forlife&theme=gruvbox&utcOffset=5" width = "31.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-forlife&theme=transparent" width = "65%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-forlife&theme=transparent&utcOffset=5" width = "31.5%">
 </p>
 
 <hr/>
