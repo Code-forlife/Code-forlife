@@ -1,6 +1,6 @@
 
 <div class="container" style="width: 100%; height: 100%; display: flex; justify-content: center; align-items: center;">
-  <img src="cover_image.jpeg" alt="Cover Image" style="width: 100%; height: auto;"> 
+  <img src="Cover Image.png" alt="Cover Image" style="width: 100%; height: auto;"> 
 </div>
 
 <h1 align="center">
